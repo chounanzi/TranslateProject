@@ -1,3 +1,5 @@
+translating by cn 
+
 How to price cryptocurrencies
 =============================
 
