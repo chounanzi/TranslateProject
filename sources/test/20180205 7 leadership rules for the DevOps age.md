@@ -1,5 +1,5 @@
-7 leadership rules for the DevOps age
-=====================================
+7 leadership rules for the DevOps age sdfdsfsdfsdf
+==================================================
 
 DevOps is about continuous change and improvement: Get ready to change your cherished leadership principles, too
 ----------------------------------------------------------------------------------------------------------------
