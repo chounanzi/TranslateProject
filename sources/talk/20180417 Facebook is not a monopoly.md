@@ -1,4 +1,4 @@
-# Facebook is not a monopoly 测试测试
+# Facebook is not a monopoly
 ## The social network is huge, globe-spanning even, but it hasn’t cornered the market on social media
 
 ![](https://cdn-images-1.medium.com/max/1600/1*dUkKXjo5bJuMyXvAHgTgvA.jpeg)
