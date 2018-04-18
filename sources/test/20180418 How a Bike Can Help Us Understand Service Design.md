@@ -1,5 +1,3 @@
----
-
 # How a Bike Can Help Us Understand Service Design
 
 ![](https://cdn-images-1.medium.com/max/2000/0*qAMliGer9MOnF9T3.)
